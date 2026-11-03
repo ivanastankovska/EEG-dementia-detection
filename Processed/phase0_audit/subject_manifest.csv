@@ -1,0 +1,181 @@
+﻿dataset,subject_id,dataset_subject_id,diagnosis_original,age,sex,mmse,recording_count,recording_files,conditions,quality_flags,statuses
+ADFTD,sub-001,ADFTD/sub-001,Alzheimer Disease Group,57,F,16,2,derivatives\sub-001\eeg\sub-001_task-eyesclosed_eeg.set;sub-001\eeg\sub-001_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-002,ADFTD/sub-002,Alzheimer Disease Group,78,F,22,2,derivatives\sub-002\eeg\sub-002_task-eyesclosed_eeg.set;sub-002\eeg\sub-002_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-003,ADFTD/sub-003,Alzheimer Disease Group,70,M,14,2,derivatives\sub-003\eeg\sub-003_task-eyesclosed_eeg.set;sub-003\eeg\sub-003_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-004,ADFTD/sub-004,Alzheimer Disease Group,67,F,20,2,derivatives\sub-004\eeg\sub-004_task-eyesclosed_eeg.set;sub-004\eeg\sub-004_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-005,ADFTD/sub-005,Alzheimer Disease Group,70,M,22,2,derivatives\sub-005\eeg\sub-005_task-eyesclosed_eeg.set;sub-005\eeg\sub-005_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-006,ADFTD/sub-006,Alzheimer Disease Group,61,F,14,2,derivatives\sub-006\eeg\sub-006_task-eyesclosed_eeg.set;sub-006\eeg\sub-006_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-007,ADFTD/sub-007,Alzheimer Disease Group,79,F,20,2,derivatives\sub-007\eeg\sub-007_task-eyesclosed_eeg.set;sub-007\eeg\sub-007_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-008,ADFTD/sub-008,Alzheimer Disease Group,62,M,16,2,derivatives\sub-008\eeg\sub-008_task-eyesclosed_eeg.set;sub-008\eeg\sub-008_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-009,ADFTD/sub-009,Alzheimer Disease Group,77,F,23,3,derivatives\sub-009\eeg\sub-009_task-eyesclosed_eeg.set;sub-009\eeg\sub-009_task-eyesclosed_eeg.set;sub-010\sub-009\eeg\sub-009_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-010,ADFTD/sub-010,Alzheimer Disease Group,69,M,20,2,derivatives\sub-010\eeg\sub-010_task-eyesclosed_eeg.set;sub-010\eeg\sub-010_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-011,ADFTD/sub-011,Alzheimer Disease Group,71,M,22,2,derivatives\sub-011\eeg\sub-011_task-eyesclosed_eeg.set;sub-011\eeg\sub-011_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-012,ADFTD/sub-012,Alzheimer Disease Group,63,M,18,2,derivatives\sub-012\eeg\sub-012_task-eyesclosed_eeg.set;sub-012\eeg\sub-012_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-013,ADFTD/sub-013,Alzheimer Disease Group,64,F,20,2,derivatives\sub-013\eeg\sub-013_task-eyesclosed_eeg.set;sub-013\eeg\sub-013_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-014,ADFTD/sub-014,Alzheimer Disease Group,77,M,14,3,derivatives\sub-014\eeg\sub-014_task-eyesclosed_eeg.set;sub-013\sub-014\eeg\sub-014_task-eyesclosed_eeg.set;sub-014\eeg\sub-014_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-015,ADFTD/sub-015,Alzheimer Disease Group,61,M,18,2,derivatives\sub-015\eeg\sub-015_task-eyesclosed_eeg.set;sub-015\eeg\sub-015_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-016,ADFTD/sub-016,Alzheimer Disease Group,68,F,14,2,derivatives\sub-016\eeg\sub-016_task-eyesclosed_eeg.set;sub-016\eeg\sub-016_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-017,ADFTD/sub-017,Alzheimer Disease Group,61,F,6,2,derivatives\sub-017\eeg\sub-017_task-eyesclosed_eeg.set;sub-017\eeg\sub-017_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-018,ADFTD/sub-018,Alzheimer Disease Group,73,F,23,2,derivatives\sub-018\eeg\sub-018_task-eyesclosed_eeg.set;sub-018\eeg\sub-018_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-019,ADFTD/sub-019,Alzheimer Disease Group,62,F,14,2,derivatives\sub-019\eeg\sub-019_task-eyesclosed_eeg.set;sub-019\eeg\sub-019_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-020,ADFTD/sub-020,Alzheimer Disease Group,71,M,4,2,derivatives\sub-020\eeg\sub-020_task-eyesclosed_eeg.set;sub-020\eeg\sub-020_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-021,ADFTD/sub-021,Alzheimer Disease Group,79,M,22,2,derivatives\sub-021\eeg\sub-021_task-eyesclosed_eeg.set;sub-021\eeg\sub-021_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-022,ADFTD/sub-022,Alzheimer Disease Group,68,F,20,2,derivatives\sub-022\eeg\sub-022_task-eyesclosed_eeg.set;sub-022\eeg\sub-022_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-023,ADFTD/sub-023,Alzheimer Disease Group,60,M,16,2,derivatives\sub-023\eeg\sub-023_task-eyesclosed_eeg.set;sub-023\eeg\sub-023_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-024,ADFTD/sub-024,Alzheimer Disease Group,69,F,20,2,derivatives\sub-024\eeg\sub-024_task-eyesclosed_eeg.set;sub-024\eeg\sub-024_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-025,ADFTD/sub-025,Alzheimer Disease Group,79,F,20,2,derivatives\sub-025\eeg\sub-025_task-eyesclosed_eeg.set;sub-025\eeg\sub-025_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-026,ADFTD/sub-026,Alzheimer Disease Group,61,F,18,2,derivatives\sub-026\eeg\sub-026_task-eyesclosed_eeg.set;sub-026\eeg\sub-026_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-027,ADFTD/sub-027,Alzheimer Disease Group,67,F,16,2,derivatives\sub-027\eeg\sub-027_task-eyesclosed_eeg.set;sub-027\eeg\sub-027_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-028,ADFTD/sub-028,Alzheimer Disease Group,49,M,20,2,derivatives\sub-028\eeg\sub-028_task-eyesclosed_eeg.set;sub-028\eeg\sub-028_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-029,ADFTD/sub-029,Alzheimer Disease Group,53,F,16,2,derivatives\sub-029\eeg\sub-029_task-eyesclosed_eeg.set;sub-029\eeg\sub-029_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-030,ADFTD/sub-030,Alzheimer Disease Group,56,F,20,2,derivatives\sub-030\eeg\sub-030_task-eyesclosed_eeg.set;sub-030\eeg\sub-030_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-031,ADFTD/sub-031,Alzheimer Disease Group,67,F,22,2,derivatives\sub-031\eeg\sub-031_task-eyesclosed_eeg.set;sub-031\eeg\sub-031_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-032,ADFTD/sub-032,Alzheimer Disease Group,59,F,20,2,derivatives\sub-032\eeg\sub-032_task-eyesclosed_eeg.set;sub-032\eeg\sub-032_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-033,ADFTD/sub-033,Alzheimer Disease Group,72,F,20,2,derivatives\sub-033\eeg\sub-033_task-eyesclosed_eeg.set;sub-033\eeg\sub-033_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-034,ADFTD/sub-034,Alzheimer Disease Group,75,F,18,2,derivatives\sub-034\eeg\sub-034_task-eyesclosed_eeg.set;sub-034\eeg\sub-034_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-035,ADFTD/sub-035,Alzheimer Disease Group,57,F,22,2,derivatives\sub-035\eeg\sub-035_task-eyesclosed_eeg.set;sub-035\eeg\sub-035_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-036,ADFTD/sub-036,Alzheimer Disease Group,58,F,9,2,derivatives\sub-036\eeg\sub-036_task-eyesclosed_eeg.set;sub-036\eeg\sub-036_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-037,ADFTD/sub-037,Healthy Group,57,M,30,2,derivatives\sub-037\eeg\sub-037_task-eyesclosed_eeg.set;sub-037\eeg\sub-037_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-038,ADFTD/sub-038,Healthy Group,62,M,30,2,derivatives\sub-038\eeg\sub-038_task-eyesclosed_eeg.set;sub-038\eeg\sub-038_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-039,ADFTD/sub-039,Healthy Group,70,M,30,2,derivatives\sub-039\eeg\sub-039_task-eyesclosed_eeg.set;sub-039\eeg\sub-039_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-040,ADFTD/sub-040,Healthy Group,61,M,30,2,derivatives\sub-040\eeg\sub-040_task-eyesclosed_eeg.set;sub-040\eeg\sub-040_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-041,ADFTD/sub-041,Healthy Group,77,F,30,2,derivatives\sub-041\eeg\sub-041_task-eyesclosed_eeg.set;sub-041\eeg\sub-041_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-042,ADFTD/sub-042,Healthy Group,74,M,30,2,derivatives\sub-042\eeg\sub-042_task-eyesclosed_eeg.set;sub-042\eeg\sub-042_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-043,ADFTD/sub-043,Healthy Group,72,M,30,2,derivatives\sub-043\eeg\sub-043_task-eyesclosed_eeg.set;sub-043\eeg\sub-043_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-044,ADFTD/sub-044,Healthy Group,64,F,30,2,derivatives\sub-044\eeg\sub-044_task-eyesclosed_eeg.set;sub-044\eeg\sub-044_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-045,ADFTD/sub-045,Healthy Group,70,F,30,2,derivatives\sub-045\eeg\sub-045_task-eyesclosed_eeg.set;sub-045\eeg\sub-045_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-046,ADFTD/sub-046,Healthy Group,63,M,30,2,derivatives\sub-046\eeg\sub-046_task-eyesclosed_eeg.set;sub-046\eeg\sub-046_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-047,ADFTD/sub-047,Healthy Group,70,F,30,2,derivatives\sub-047\eeg\sub-047_task-eyesclosed_eeg.set;sub-047\eeg\sub-047_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-048,ADFTD/sub-048,Healthy Group,65,M,30,2,derivatives\sub-048\eeg\sub-048_task-eyesclosed_eeg.set;sub-048\eeg\sub-048_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-049,ADFTD/sub-049,Healthy Group,62,F,30,2,derivatives\sub-049\eeg\sub-049_task-eyesclosed_eeg.set;sub-049\eeg\sub-049_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-050,ADFTD/sub-050,Healthy Group,68,M,30,2,derivatives\sub-050\eeg\sub-050_task-eyesclosed_eeg.set;sub-050\eeg\sub-050_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-051,ADFTD/sub-051,Healthy Group,75,F,30,2,derivatives\sub-051\eeg\sub-051_task-eyesclosed_eeg.set;sub-051\eeg\sub-051_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-052,ADFTD/sub-052,Healthy Group,73,F,30,2,derivatives\sub-052\eeg\sub-052_task-eyesclosed_eeg.set;sub-052\eeg\sub-052_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-053,ADFTD/sub-053,Healthy Group,70,M,30,2,derivatives\sub-053\eeg\sub-053_task-eyesclosed_eeg.set;sub-053\eeg\sub-053_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-054,ADFTD/sub-054,Healthy Group,78,M,30,2,derivatives\sub-054\eeg\sub-054_task-eyesclosed_eeg.set;sub-054\eeg\sub-054_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-055,ADFTD/sub-055,Healthy Group,67,M,30,2,derivatives\sub-055\eeg\sub-055_task-eyesclosed_eeg.set;sub-055\eeg\sub-055_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-056,ADFTD/sub-056,Healthy Group,64,F,30,2,derivatives\sub-056\eeg\sub-056_task-eyesclosed_eeg.set;sub-056\eeg\sub-056_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-057,ADFTD/sub-057,Healthy Group,64,M,30,2,derivatives\sub-057\eeg\sub-057_task-eyesclosed_eeg.set;sub-057\eeg\sub-057_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-058,ADFTD/sub-058,Healthy Group,62,M,30,2,derivatives\sub-058\eeg\sub-058_task-eyesclosed_eeg.set;sub-058\eeg\sub-058_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-059,ADFTD/sub-059,Healthy Group,77,M,30,2,derivatives\sub-059\eeg\sub-059_task-eyesclosed_eeg.set;sub-059\eeg\sub-059_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-060,ADFTD/sub-060,Healthy Group,71,F,30,2,derivatives\sub-060\eeg\sub-060_task-eyesclosed_eeg.set;sub-060\eeg\sub-060_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-061,ADFTD/sub-061,Healthy Group,63,F,30,2,derivatives\sub-061\eeg\sub-061_task-eyesclosed_eeg.set;sub-061\eeg\sub-061_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-062,ADFTD/sub-062,Healthy Group,67,M,30,2,derivatives\sub-062\eeg\sub-062_task-eyesclosed_eeg.set;sub-062\eeg\sub-062_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-063,ADFTD/sub-063,Healthy Group,66,M,30,2,derivatives\sub-063\eeg\sub-063_task-eyesclosed_eeg.set;sub-063\eeg\sub-063_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-064,ADFTD/sub-064,Healthy Group,66,M,30,2,derivatives\sub-064\eeg\sub-064_task-eyesclosed_eeg.set;sub-064\eeg\sub-064_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-065,ADFTD/sub-065,Healthy Group,71,F,30,2,derivatives\sub-065\eeg\sub-065_task-eyesclosed_eeg.set;sub-065\eeg\sub-065_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-066,ADFTD/sub-066,Frontotemporal Dementia Group,73,M,20,2,derivatives\sub-066\eeg\sub-066_task-eyesclosed_eeg.set;sub-066\eeg\sub-066_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-067,ADFTD/sub-067,Frontotemporal Dementia Group,66,M,24,2,derivatives\sub-067\eeg\sub-067_task-eyesclosed_eeg.set;sub-067\eeg\sub-067_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-068,ADFTD/sub-068,Frontotemporal Dementia Group,78,M,25,2,derivatives\sub-068\eeg\sub-068_task-eyesclosed_eeg.set;sub-068\eeg\sub-068_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-069,ADFTD/sub-069,Frontotemporal Dementia Group,70,M,22,2,derivatives\sub-069\eeg\sub-069_task-eyesclosed_eeg.set;sub-069\eeg\sub-069_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-070,ADFTD/sub-070,Frontotemporal Dementia Group,67,F,22,2,derivatives\sub-070\eeg\sub-070_task-eyesclosed_eeg.set;sub-070\eeg\sub-070_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-071,ADFTD/sub-071,Frontotemporal Dementia Group,62,M,20,2,derivatives\sub-071\eeg\sub-071_task-eyesclosed_eeg.set;sub-071\eeg\sub-071_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-072,ADFTD/sub-072,Frontotemporal Dementia Group,65,M,18,2,derivatives\sub-072\eeg\sub-072_task-eyesclosed_eeg.set;sub-072\eeg\sub-072_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-073,ADFTD/sub-073,Frontotemporal Dementia Group,57,F,22,2,derivatives\sub-073\eeg\sub-073_task-eyesclosed_eeg.set;sub-073\eeg\sub-073_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-074,ADFTD/sub-074,Frontotemporal Dementia Group,53,F,20,2,derivatives\sub-074\eeg\sub-074_task-eyesclosed_eeg.set;sub-074\eeg\sub-074_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-075,ADFTD/sub-075,Frontotemporal Dementia Group,71,F,22,2,derivatives\sub-075\eeg\sub-075_task-eyesclosed_eeg.set;sub-075\eeg\sub-075_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-076,ADFTD/sub-076,Frontotemporal Dementia Group,44,M,24,2,derivatives\sub-076\eeg\sub-076_task-eyesclosed_eeg.set;sub-076\eeg\sub-076_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-077,ADFTD/sub-077,Frontotemporal Dementia Group,61,M,22,2,derivatives\sub-077\eeg\sub-077_task-eyesclosed_eeg.set;sub-077\eeg\sub-077_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-078,ADFTD/sub-078,Frontotemporal Dementia Group,62,M,22,2,derivatives\sub-078\eeg\sub-078_task-eyesclosed_eeg.set;sub-078\eeg\sub-078_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-079,ADFTD/sub-079,Frontotemporal Dementia Group,60,F,18,2,derivatives\sub-079\eeg\sub-079_task-eyesclosed_eeg.set;sub-079\eeg\sub-079_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-080,ADFTD/sub-080,Frontotemporal Dementia Group,71,F,20,2,derivatives\sub-080\eeg\sub-080_task-eyesclosed_eeg.set;sub-080\eeg\sub-080_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-081,ADFTD/sub-081,Frontotemporal Dementia Group,61,F,18,2,derivatives\sub-081\eeg\sub-081_task-eyesclosed_eeg.set;sub-081\eeg\sub-081_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-082,ADFTD/sub-082,Frontotemporal Dementia Group,63,M,27,2,derivatives\sub-082\eeg\sub-082_task-eyesclosed_eeg.set;sub-082\eeg\sub-082_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-083,ADFTD/sub-083,Frontotemporal Dementia Group,68,F,20,2,derivatives\sub-083\eeg\sub-083_task-eyesclosed_eeg.set;sub-083\eeg\sub-083_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-084,ADFTD/sub-084,Frontotemporal Dementia Group,71,F,24,2,derivatives\sub-084\eeg\sub-084_task-eyesclosed_eeg.set;sub-084\eeg\sub-084_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-085,ADFTD/sub-085,Frontotemporal Dementia Group,64,M,26,2,derivatives\sub-085\eeg\sub-085_task-eyesclosed_eeg.set;sub-085\eeg\sub-085_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-086,ADFTD/sub-086,Frontotemporal Dementia Group,49,M,26,2,derivatives\sub-086\eeg\sub-086_task-eyesclosed_eeg.set;sub-086\eeg\sub-086_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-087,ADFTD/sub-087,Frontotemporal Dementia Group,73,M,24,2,derivatives\sub-087\eeg\sub-087_task-eyesclosed_eeg.set;sub-087\eeg\sub-087_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFTD,sub-088,ADFTD/sub-088,Frontotemporal Dementia Group,55,M,24,2,derivatives\sub-088\eeg\sub-088_task-eyesclosed_eeg.set;sub-088\eeg\sub-088_task-eyesclosed_eeg.set,eyes-closed,,ok
+ADFSU,AD/Paciente1,ADFSU/AD/Paciente1,AD,,,,2,AD\Eyes_closed\Paciente1;AD\Eyes_open\Paciente1,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente10,ADFSU/AD/Paciente10,AD,,,,2,AD\Eyes_closed\Paciente10;AD\Eyes_open\Paciente10,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente11,ADFSU/AD/Paciente11,AD,,,,2,AD\Eyes_closed\Paciente11;AD\Eyes_open\Paciente11,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente12,ADFSU/AD/Paciente12,AD,,,,2,AD\Eyes_closed\Paciente12;AD\Eyes_open\Paciente12,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente13,ADFSU/AD/Paciente13,AD,,,,2,AD\Eyes_closed\Paciente13;AD\Eyes_open\Paciente13,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente14,ADFSU/AD/Paciente14,AD,,,,2,AD\Eyes_closed\Paciente14;AD\Eyes_open\Paciente14,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente15,ADFSU/AD/Paciente15,AD,,,,2,AD\Eyes_closed\Paciente15;AD\Eyes_open\Paciente15,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente16,ADFSU/AD/Paciente16,AD,,,,2,AD\Eyes_closed\Paciente16;AD\Eyes_open\Paciente16,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente17,ADFSU/AD/Paciente17,AD,,,,2,AD\Eyes_closed\Paciente17;AD\Eyes_open\Paciente17,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente18,ADFSU/AD/Paciente18,AD,,,,2,AD\Eyes_closed\Paciente18;AD\Eyes_open\Paciente18,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente19,ADFSU/AD/Paciente19,AD,,,,2,AD\Eyes_closed\Paciente19;AD\Eyes_open\Paciente19,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente2,ADFSU/AD/Paciente2,AD,,,,2,AD\Eyes_closed\Paciente2;AD\Eyes_open\Paciente2,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente20,ADFSU/AD/Paciente20,AD,,,,2,AD\Eyes_closed\Paciente20;AD\Eyes_open\Paciente20,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente21,ADFSU/AD/Paciente21,AD,,,,2,AD\Eyes_closed\Paciente21;AD\Eyes_open\Paciente21,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente22,ADFSU/AD/Paciente22,AD,,,,2,AD\Eyes_closed\Paciente22;AD\Eyes_open\Paciente22,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente23,ADFSU/AD/Paciente23,AD,,,,2,AD\Eyes_closed\Paciente23;AD\Eyes_open\Paciente23,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente24,ADFSU/AD/Paciente24,AD,,,,2,AD\Eyes_closed\Paciente24;AD\Eyes_open\Paciente24,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente25,ADFSU/AD/Paciente25,AD,,,,2,AD\Eyes_closed\Paciente25;AD\Eyes_open\Paciente25,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente26,ADFSU/AD/Paciente26,AD,,,,2,AD\Eyes_closed\Paciente26;AD\Eyes_open\Paciente26,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente27,ADFSU/AD/Paciente27,AD,,,,2,AD\Eyes_closed\Paciente27;AD\Eyes_open\Paciente27,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente28,ADFSU/AD/Paciente28,AD,,,,2,AD\Eyes_closed\Paciente28;AD\Eyes_open\Paciente28,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente29,ADFSU/AD/Paciente29,AD,,,,2,AD\Eyes_closed\Paciente29;AD\Eyes_open\Paciente29,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente3,ADFSU/AD/Paciente3,AD,,,,2,AD\Eyes_closed\Paciente3;AD\Eyes_open\Paciente3,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente30,ADFSU/AD/Paciente30,AD,,,,2,AD\Eyes_closed\Paciente30;AD\Eyes_open\Paciente30,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente31,ADFSU/AD/Paciente31,AD,,,,2,AD\Eyes_closed\Paciente31;AD\Eyes_open\Paciente31,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente32,ADFSU/AD/Paciente32,AD,,,,2,AD\Eyes_closed\Paciente32;AD\Eyes_open\Paciente32,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente33,ADFSU/AD/Paciente33,AD,,,,2,AD\Eyes_closed\Paciente33;AD\Eyes_open\Paciente33,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente34,ADFSU/AD/Paciente34,AD,,,,2,AD\Eyes_closed\Paciente34;AD\Eyes_open\Paciente34,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente35,ADFSU/AD/Paciente35,AD,,,,2,AD\Eyes_closed\Paciente35;AD\Eyes_open\Paciente35,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente36,ADFSU/AD/Paciente36,AD,,,,2,AD\Eyes_closed\Paciente36;AD\Eyes_open\Paciente36,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente37,ADFSU/AD/Paciente37,AD,,,,2,AD\Eyes_closed\Paciente37;AD\Eyes_open\Paciente37,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente38,ADFSU/AD/Paciente38,AD,,,,2,AD\Eyes_closed\Paciente38;AD\Eyes_open\Paciente38,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente39,ADFSU/AD/Paciente39,AD,,,,2,AD\Eyes_closed\Paciente39;AD\Eyes_open\Paciente39,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente4,ADFSU/AD/Paciente4,AD,,,,2,AD\Eyes_closed\Paciente4;AD\Eyes_open\Paciente4,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente40,ADFSU/AD/Paciente40,AD,,,,2,AD\Eyes_closed\Paciente40;AD\Eyes_open\Paciente40,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente41,ADFSU/AD/Paciente41,AD,,,,2,AD\Eyes_closed\Paciente41;AD\Eyes_open\Paciente41,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente42,ADFSU/AD/Paciente42,AD,,,,2,AD\Eyes_closed\Paciente42;AD\Eyes_open\Paciente42,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente43,ADFSU/AD/Paciente43,AD,,,,2,AD\Eyes_closed\Paciente43;AD\Eyes_open\Paciente43,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente44,ADFSU/AD/Paciente44,AD,,,,2,AD\Eyes_closed\Paciente44;AD\Eyes_open\Paciente44,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente45,ADFSU/AD/Paciente45,AD,,,,2,AD\Eyes_closed\Paciente45;AD\Eyes_open\Paciente45,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente46,ADFSU/AD/Paciente46,AD,,,,2,AD\Eyes_closed\Paciente46;AD\Eyes_open\Paciente46,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente47,ADFSU/AD/Paciente47,AD,,,,2,AD\Eyes_closed\Paciente47;AD\Eyes_open\Paciente47,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente48,ADFSU/AD/Paciente48,AD,,,,2,AD\Eyes_closed\Paciente48;AD\Eyes_open\Paciente48,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente49,ADFSU/AD/Paciente49,AD,,,,2,AD\Eyes_closed\Paciente49;AD\Eyes_open\Paciente49,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente5,ADFSU/AD/Paciente5,AD,,,,2,AD\Eyes_closed\Paciente5;AD\Eyes_open\Paciente5,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente50,ADFSU/AD/Paciente50,AD,,,,2,AD\Eyes_closed\Paciente50;AD\Eyes_open\Paciente50,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente51,ADFSU/AD/Paciente51,AD,,,,2,AD\Eyes_closed\Paciente51;AD\Eyes_open\Paciente51,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente52,ADFSU/AD/Paciente52,AD,,,,2,AD\Eyes_closed\Paciente52;AD\Eyes_open\Paciente52,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente53,ADFSU/AD/Paciente53,AD,,,,2,AD\Eyes_closed\Paciente53;AD\Eyes_open\Paciente53,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente54,ADFSU/AD/Paciente54,AD,,,,2,AD\Eyes_closed\Paciente54;AD\Eyes_open\Paciente54,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente55,ADFSU/AD/Paciente55,AD,,,,2,AD\Eyes_closed\Paciente55;AD\Eyes_open\Paciente55,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente56,ADFSU/AD/Paciente56,AD,,,,2,AD\Eyes_closed\Paciente56;AD\Eyes_open\Paciente56,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente57,ADFSU/AD/Paciente57,AD,,,,2,AD\Eyes_closed\Paciente57;AD\Eyes_open\Paciente57,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente58,ADFSU/AD/Paciente58,AD,,,,2,AD\Eyes_closed\Paciente58;AD\Eyes_open\Paciente58,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente59,ADFSU/AD/Paciente59,AD,,,,2,AD\Eyes_closed\Paciente59;AD\Eyes_open\Paciente59,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente6,ADFSU/AD/Paciente6,AD,,,,2,AD\Eyes_closed\Paciente6;AD\Eyes_open\Paciente6,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente60,ADFSU/AD/Paciente60,AD,,,,2,AD\Eyes_closed\Paciente60;AD\Eyes_open\Paciente60,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente61,ADFSU/AD/Paciente61,AD,,,,2,AD\Eyes_closed\Paciente61;AD\Eyes_open\Paciente61,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente62,ADFSU/AD/Paciente62,AD,,,,2,AD\Eyes_closed\Paciente62;AD\Eyes_open\Paciente62,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente63,ADFSU/AD/Paciente63,AD,,,,2,AD\Eyes_closed\Paciente63;AD\Eyes_open\Paciente63,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente64,ADFSU/AD/Paciente64,AD,,,,2,AD\Eyes_closed\Paciente64;AD\Eyes_open\Paciente64,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente65,ADFSU/AD/Paciente65,AD,,,,2,AD\Eyes_closed\Paciente65;AD\Eyes_open\Paciente65,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente66,ADFSU/AD/Paciente66,AD,,,,2,AD\Eyes_closed\Paciente66;AD\Eyes_open\Paciente66,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente67,ADFSU/AD/Paciente67,AD,,,,2,AD\Eyes_closed\Paciente67;AD\Eyes_open\Paciente67,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente68,ADFSU/AD/Paciente68,AD,,,,2,AD\Eyes_closed\Paciente68;AD\Eyes_open\Paciente68,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente69,ADFSU/AD/Paciente69,AD,,,,2,AD\Eyes_closed\Paciente69;AD\Eyes_open\Paciente69,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente7,ADFSU/AD/Paciente7,AD,,,,2,AD\Eyes_closed\Paciente7;AD\Eyes_open\Paciente7,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente70,ADFSU/AD/Paciente70,AD,,,,2,AD\Eyes_closed\Paciente70;AD\Eyes_open\Paciente70,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente71,ADFSU/AD/Paciente71,AD,,,,2,AD\Eyes_closed\Paciente71;AD\Eyes_open\Paciente71,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente72,ADFSU/AD/Paciente72,AD,,,,2,AD\Eyes_closed\Paciente72;AD\Eyes_open\Paciente72,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente73,ADFSU/AD/Paciente73,AD,,,,2,AD\Eyes_closed\Paciente73;AD\Eyes_open\Paciente73,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente74,ADFSU/AD/Paciente74,AD,,,,2,AD\Eyes_closed\Paciente74;AD\Eyes_open\Paciente74,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente75,ADFSU/AD/Paciente75,AD,,,,2,AD\Eyes_closed\Paciente75;AD\Eyes_open\Paciente75,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente76,ADFSU/AD/Paciente76,AD,,,,2,AD\Eyes_closed\Paciente76;AD\Eyes_open\Paciente76,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente77,ADFSU/AD/Paciente77,AD,,,,2,AD\Eyes_closed\Paciente77;AD\Eyes_open\Paciente77,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente78,ADFSU/AD/Paciente78,AD,,,,2,AD\Eyes_closed\Paciente78;AD\Eyes_open\Paciente78,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente79,ADFSU/AD/Paciente79,AD,,,,2,AD\Eyes_closed\Paciente79;AD\Eyes_open\Paciente79,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente8,ADFSU/AD/Paciente8,AD,,,,2,AD\Eyes_closed\Paciente8;AD\Eyes_open\Paciente8,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente80,ADFSU/AD/Paciente80,AD,,,,2,AD\Eyes_closed\Paciente80;AD\Eyes_open\Paciente80,Eyes_closed;Eyes_open,,ok
+ADFSU,AD/Paciente9,ADFSU/AD/Paciente9,AD,,,,2,AD\Eyes_closed\Paciente9;AD\Eyes_open\Paciente9,Eyes_closed;Eyes_open,,ok
+ADFSU,Healthy/Paciente1,ADFSU/Healthy/Paciente1,Healthy,,,,2,Healthy\Eyes_closed\Paciente1;Healthy\Eyes_open\Paciente1,Eyes_closed;Eyes_open,,ok
+ADFSU,Healthy/Paciente10,ADFSU/Healthy/Paciente10,Healthy,,,,2,Healthy\Eyes_closed\Paciente10;Healthy\Eyes_open\Paciente10,Eyes_closed;Eyes_open,,ok
+ADFSU,Healthy/Paciente11,ADFSU/Healthy/Paciente11,Healthy,,,,2,Healthy\Eyes_closed\Paciente11;Healthy\Eyes_open\Paciente11,Eyes_closed;Eyes_open,,ok
+ADFSU,Healthy/Paciente12,ADFSU/Healthy/Paciente12,Healthy,,,,2,Healthy\Eyes_closed\Paciente12;Healthy\Eyes_open\Paciente12,Eyes_closed;Eyes_open,,ok
+ADFSU,Healthy/Paciente2,ADFSU/Healthy/Paciente2,Healthy,,,,2,Healthy\Eyes_closed\Paciente2;Healthy\Eyes_open\Paciente2,Eyes_closed;Eyes_open,,ok
+ADFSU,Healthy/Paciente3,ADFSU/Healthy/Paciente3,Healthy,,,,2,Healthy\Eyes_closed\Paciente3;Healthy\Eyes_open\Paciente3,Eyes_closed;Eyes_open,,ok
+ADFSU,Healthy/Paciente4,ADFSU/Healthy/Paciente4,Healthy,,,,2,Healthy\Eyes_closed\Paciente4;Healthy\Eyes_open\Paciente4,Eyes_closed;Eyes_open,,ok
+ADFSU,Healthy/Paciente5,ADFSU/Healthy/Paciente5,Healthy,,,,2,Healthy\Eyes_closed\Paciente5;Healthy\Eyes_open\Paciente5,Eyes_closed;Eyes_open,no_channel_text_files,error;ok
+ADFSU,Healthy/Paciente6,ADFSU/Healthy/Paciente6,Healthy,,,,2,Healthy\Eyes_closed\Paciente6;Healthy\Eyes_open\Paciente6,Eyes_closed;Eyes_open,channels_missing_vs_dataset_mode,ok
+ADFSU,Healthy/Paciente7,ADFSU/Healthy/Paciente7,Healthy,,,,2,Healthy\Eyes_closed\Paciente7;Healthy\Eyes_open\Paciente7,Eyes_closed;Eyes_open,,ok
+ADFSU,Healthy/Paciente8,ADFSU/Healthy/Paciente8,Healthy,,,,2,Healthy\Eyes_closed\Paciente8;Healthy\Eyes_open\Paciente8,Eyes_closed;Eyes_open,,ok
+ADFSU,Healthy/Paciente9,ADFSU/Healthy/Paciente9,Healthy,,,,2,Healthy\Eyes_closed\Paciente9;Healthy\Eyes_open\Paciente9,Eyes_closed;Eyes_open,,ok

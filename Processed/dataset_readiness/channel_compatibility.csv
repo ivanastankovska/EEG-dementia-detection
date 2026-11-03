@@ -1,0 +1,22 @@
+channel,in_adftd,in_adfsu,standardized_name,notes
+C3,True,True,C3,
+C4,True,True,C4,
+Cz,True,True,Cz,
+F1,False,True,F1,
+F2,False,True,F2,
+F3,True,True,F3,
+F4,True,True,F4,
+F7,True,True,F7,
+F8,True,True,F8,
+Fp1,True,True,Fp1,
+Fp2,True,True,Fp2,
+Fz,True,True,Fz,
+O1,True,True,O1,
+O2,True,True,O2,
+P3,True,True,P3,
+P4,True,True,P4,
+P7,True,True,P7,T3/T4/T5/T6 are legacy aliases for T7/T8/P7/P8
+P8,True,True,P8,T3/T4/T5/T6 are legacy aliases for T7/T8/P7/P8
+Pz,True,True,Pz,
+T7,True,True,T7,T3/T4/T5/T6 are legacy aliases for T7/T8/P7/P8
+T8,True,True,T8,T3/T4/T5/T6 are legacy aliases for T7/T8/P7/P8

@@ -1,0 +1,15 @@
+{
+  "adftd_root": "C:\\Users\\Ivana\\Desktop\\EEG dementia detection\\project\\datasets\\ADFTD",
+  "adfsu_root": "C:\\Users\\Ivana\\Desktop\\EEG dementia detection\\project\\datasets\\ADFSU",
+  "seconds_requested": 10,
+  "adfsu_sfreq_hz": null,
+  "adfsu_unit": "unknown",
+  "figures": [
+    "adftd_alpha_topomap.png",
+    "adftd_frequency_bands.png",
+    "adftd_psd.png",
+    "adftd_raw_eeg.png",
+    "channel_comparison.png",
+    "class_distribution.png"
+  ]
+}

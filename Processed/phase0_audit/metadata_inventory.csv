@@ -1,0 +1,2 @@
+dataset,file,status,row_count,participant_id_column,unique_participants,duplicate_participant_ids,missing_participant_ids,label_column,missing_labels,label_counts,error
+ADFTD,participants.tsv,ok,88,participant_id,88,0,0,Group,0,"{""Alzheimer Disease Group"": 36, ""Healthy Group"": 29, ""Frontotemporal Dementia Group"": 23}",

@@ -1,0 +1,16 @@
+{
+  "source_root": "C:\\Users\\Ivana\\Desktop\\EEG dementia detection\\project\\datasets\\ADFTD",
+  "total_participants_in_metadata": 88,
+  "diagnosis_counts": {
+    "A": 36,
+    "C": 29,
+    "F": 23
+  },
+  "recordings_found": 88,
+  "recording_status_counts": {
+    "ok": 88
+  },
+  "unique_subjects_with_successful_recordings": 88,
+  "target_sfreq_hz": 200.0,
+  "note": "Resampling only; filtering, artifact rejection, epoching, and split creation not performed."
+}

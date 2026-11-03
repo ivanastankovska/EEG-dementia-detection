@@ -1,0 +1,12 @@
+property,ADFTD,ADFSU,verified
+unique_participants,88,UNKNOWN,partial
+diagnosis_counts,"{""Alzheimer Disease Group"": 36, ""Frontotemporal Dementia Group"": 23, ""Healthy Group"": 29}",UNKNOWN,partial
+age_available,True,False,yes
+sex_available,True,False,yes
+original_sampling_frequency_hz,500,UNKNOWN,partial
+amplitude_unit,MNE convention: volts; source README reports 10 microvolts/mm,UNKNOWN,yes
+reference,raw sidecars: A1 A2; README: derivatives re-referenced A1-A2,UNKNOWN,yes
+electrode_montage,10-20 (19 scalp channels),International 10-20 claimed by local source notes; local channel evidence should be confirmed in source documentation,yes
+existing_filter,"raw: acquisition high-frequency 70 Hz, amplification time; README does not state a raw digital band-pass. derivatives: 0.5-45 Hz",UNKNOWN,yes
+existing_artifact_handling,raw exported without device annotations; derivatives use ASR and ICLabel IC rejection,UNKNOWN,yes
+power_line_hz,sidecar sub-001: 50,UNKNOWN,yes

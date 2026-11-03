@@ -1,0 +1,8 @@
+# Don't upload large datasets
+datasets/
+
+# Don't upload Python temporary files
+__pycache__/
+*.pyc
+
+.idea
